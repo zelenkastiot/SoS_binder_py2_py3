@@ -1,4 +1,4 @@
-# Script of Scripts environment (Python2, Python3)
+# Script of Scripts (SoS) environment 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zelenkastiot/SoS_binder_py2_py3/master?urlpath=lab/tree/Notebook_example.ipynb)
 
