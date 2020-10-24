@@ -2,4 +2,4 @@
 python3 -m sos_notebook.install
 
 # Enable jupyterlab-sos
-jupyter labextension install jupyterlab-sos 
+jupyter labextension install --minimize=False jupyterlab-sos 
